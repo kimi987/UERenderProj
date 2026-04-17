@@ -1,0 +1,38 @@
+# Unreal Engine generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Content/Developers/
+
+# Visual Studio / IDE files
+.vs/
+.vscode/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Rider / JetBrains
+.idea/
+
+# Generated project files
+*.xcodeproj
+*.xcworkspace
+*.csproj
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.csproj.user
+
+# Build logs and local caches
+*.log
+*.tmp
+*.pidb
+*.obj
+
+# OS files
+Thumbs.db
+Desktop.ini
